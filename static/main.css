@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+body{
+    background-color: #9cacbf;
+
+
+
+}
+
+.title-app{
+    font-size: 30px;
+    font-family: 'Noto Serif', serif;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.cards-container{
+    display:inline-flexbox;
+   
+}
+
+.card{
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 10%;
+    box-shadow: 1px 2px 2px  #504f4f;
+}
+
+.items{
+
+    margin-left: 10%;
+    font-family: 'Noto Serif', serif;
+}
+
+.navbar{
+    background-color:#2b6684 !important;
+}
+
